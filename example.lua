@@ -2,9 +2,9 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxax
 local Wait = library.subs.Wait -- Only returns if the GUI has not been terminated. For 'while Wait() do' loops
 
 local PepsisWorld = library:CreateWindow({
-Name = "Pepsi's World",
+Name = "greed.hook",
 Themeable = {
-Info = "Discord Server: VzYTJ7Y"
+Info = "discord.gg/greed-hook"
 }
 })
 
