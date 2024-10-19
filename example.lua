@@ -1,4 +1,4 @@
-local library = loadstring(game:GetObjects("rbxassetid://7657867786")[1].Source)()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xaxaxaxaxaxaxaxaxaxaxaxax/Pepsi/refs/heads/main/source.lua"))()
 local Wait = library.subs.Wait -- Only returns if the GUI has not been terminated. For 'while Wait() do' loops
 
 local PepsisWorld = library:CreateWindow({
