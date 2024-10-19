@@ -462,7 +462,7 @@ Library v0.36 [
 ]]
 local library = {
 	Version = "0.36",
-	WorkspaceName = "Pepsi Lib",
+	WorkspaceName = "greed.hook",
 	flags = {},
 	signals = {},
 	objects = {},
@@ -471,7 +471,7 @@ local library = {
 	subs = {},
 	colored = {},
 	configuration = {
-		hideKeybind = Enum.KeyCode.RightShift,
+		hideKeybind = Enum.KeyCode.End,
 		smoothDragging = false,
 		easingStyle = Enum.EasingStyle.Quart,
 		easingDirection = Enum.EasingDirection.Out
